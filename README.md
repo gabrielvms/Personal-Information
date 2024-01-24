@@ -1,4 +1,4 @@
-## Olá, eu sou Gabriel Vieira, engenheiro de software e pai de pet!!
+## Olá, eu sou Gabriel Vieira, engenheiro de software e entusiasta de dados!
 <div align="center">
   <a href="https://github.com/gabrielvms">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielvms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
